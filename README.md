@@ -7,6 +7,20 @@
 - <b>Autopsy for Cybersecutiy Forensics</b>
   - [Investigating Espionage](https://github.com/TheBestNinja/Cybersecurity-Forensics-project/blob/main/README.md) 
 
+<h2>Certifications</h2>
+
+- CompTIA PenTest+ 
+- CompTIA CySA+
+- CompTIA Security+
+- CompTIA Network+
+- CompTIA Project+
+- CompTIA A+ 
+- SSCP (ISC)²  
+- ITIL Axelo 
+- [Google IT Support Professional](https://coursera.org/share/b4a749dcad04623c2582c618866dcb41)
+
+
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [I am CompTIA A+ certified! With WGU B.S. Cybersecurity](https://youtu.be/sZiD3GZSPe0)
