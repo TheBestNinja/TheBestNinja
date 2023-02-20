@@ -9,7 +9,7 @@
 
 <h2>Certifications</h2>
 
-- CompTIA PenTest+ 
+- [CompTIA PenTest+](file:///C:/Users/judgs/Downloads/CompTIA%20PenTest+%20ce%20certificate%20(1).pdf)
 - CompTIA CySA+
 - CompTIA Security+
 - CompTIA Network+
