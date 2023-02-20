@@ -9,13 +9,13 @@
 
 <h2>Certifications</h2>
 
-- [CompTIA PenTest+](file:///C:/Users/judgs/Downloads/CompTIA%20PenTest+%20ce%20certificate%20(1).pdf)
-- CompTIA CySA+
-- CompTIA Security+
-- CompTIA Network+
-- CompTIA Project+
-- CompTIA A+ 
-- SSCP (ISC)²  
+- [CompTIA PenTest+](https://www.credly.com/badges/f1793254-6eb2-4629-a974-694eca2e7846/public_url)
+- [CompTIA CySA+](https://www.credly.com/badges/9e439d46-b3b0-42f3-9cd1-aa23600c19a6/public_url)
+- [CompTIA Security+](https://www.credly.com/badges/987b3afa-91a1-4e9c-ab70-fc98e2cba62c/public_url)
+- [CompTIA Network+](https://www.credly.com/badges/dcaa5317-e30d-4574-aed8-452f6245f2f7/public_url)
+- [CompTIA Project+](https://www.credly.com/badges/4a91bb99-abfc-45ac-9c2a-59ae1a9eaa08/public_url)
+- [CompTIA A+](https://www.credly.com/badges/1bc55460-c9be-4fd5-a452-0d638961ac01/public_url)
+- [SSCP (ISC)²](https://www.credly.com/badges/f4cc35ba-c080-4310-9110-f3a7b9ca7aaa/public_url)
 - ITIL Axelo 
 - [Google IT Support Professional](https://coursera.org/share/b4a749dcad04623c2582c618866dcb41)
 
