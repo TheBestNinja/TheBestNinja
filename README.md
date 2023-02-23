@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>SQL</b>
-  - [Created SQL project for bakery shop](https://github.com/TheBestNinja/SQL-project-for-school)
+  - [Created SQL project for bakery shop](https://github.com/TheBestNinja/SQL-project-for-school/blob/main/SQL-project-for-school.pdf)
 - <b>Autopsy for Cybersecutiy Forensics</b>
   - [Investigating Espionage](https://github.com/TheBestNinja/Cybersecurity-Forensics-project/blob/main/README.md) 
 
