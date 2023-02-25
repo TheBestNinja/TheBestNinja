@@ -1,11 +1,9 @@
 <h1>Hi, I'm Judgment! <br/><a href="http://github.com/TheBestNinja">Programmer</a>, <a href="https://www.linkedin.com/in/judgmentsmith/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@T-rexdestructions">YouTuber</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Project:</h2>
 
 - <b>SQL</b>
   - [Created SQL project for bakery shop](https://github.com/TheBestNinja/SQL-project-for-school/blob/main/SQL-project-for-school.pdf)
-- <b>Autopsy for Cybersecutiy Forensics</b>
-  - [Investigating Espionage](https://github.com/TheBestNinja/Cybersecurity-Forensics-project/blob/main/README.md) 
 
 <h2>Certifications</h2>
 
